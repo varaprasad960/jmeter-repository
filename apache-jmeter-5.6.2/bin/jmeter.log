@@ -1,0 +1,141 @@
+2023-07-14 16:15:36,746 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2023-07-14 16:15:36,771 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2023-07-14 16:15:36,771 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2023-07-14 16:15:36,777 INFO o.a.j.JMeter: Copyright (c) 1998-2023 The Apache Software Foundation
+2023-07-14 16:15:36,777 INFO o.a.j.JMeter: Version 5.6.2
+2023-07-14 16:15:36,777 INFO o.a.j.JMeter: java.version=17.0.7
+2023-07-14 16:15:36,777 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2023-07-14 16:15:36,777 INFO o.a.j.JMeter: os.name=Windows 11
+2023-07-14 16:15:36,777 INFO o.a.j.JMeter: os.arch=amd64
+2023-07-14 16:15:36,777 INFO o.a.j.JMeter: os.version=10.0
+2023-07-14 16:15:36,779 INFO o.a.j.JMeter: file.encoding=Cp1252
+2023-07-14 16:15:36,780 INFO o.a.j.JMeter: java.awt.headless=null
+2023-07-14 16:15:36,780 INFO o.a.j.JMeter: Max memory     =1073741824
+2023-07-14 16:15:36,780 INFO o.a.j.JMeter: Available Processors =8
+2023-07-14 16:15:36,791 INFO o.a.j.JMeter: Default Locale=English (EN)
+2023-07-14 16:15:36,791 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2023-07-14 16:15:36,791 INFO o.a.j.JMeter: JMeterHome=C:\Users\CSTECH-1\Desktop\Jmeter5.6\apache-jmeter-5.6.2\apache-jmeter-5.6.2
+2023-07-14 16:15:36,791 INFO o.a.j.JMeter: user.dir  =C:\Users\CSTECH-1\Desktop\Jmeter5.6\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin
+2023-07-14 16:15:36,792 INFO o.a.j.JMeter: PWD       =C:\Users\CSTECH-1\Desktop\Jmeter5.6\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin
+2023-07-14 16:15:36,794 INFO o.a.j.JMeter: IP: 192.168.0.139 Name: CSTECH FullName: CSTECH
+2023-07-14 16:15:36,807 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2023-07-14 16:15:37,102 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:javax.swing.plaf.metal.MetalLookAndFeel
+2023-07-14 16:16:14,557 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: C:\Users\CSTECH-1\Desktop\Jmeter5.6\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin\templates\templates.xml
+2023-07-14 16:16:28,429 INFO o.a.j.g.a.Load: Loading file: C:\Users\CSTECH-1\AppData\Local\Temp\Recording5976449716960250542.output
+2023-07-14 16:16:28,613 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2023-07-14 16:16:28,627 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2023-07-14 16:16:28,630 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2023-07-14 16:16:28,631 INFO o.a.j.s.SaveService: Loading file: C:\Users\CSTECH-1\AppData\Local\Temp\Recording5976449716960250542.output
+2023-07-14 16:16:28,656 INFO o.a.j.p.h.c.CookieManager: Settings: Delete null: true Check: true Allow variable: true Save: false Prefix: COOKIE_
+2023-07-14 16:16:28,918 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2023-07-14 16:16:28,918 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\CSTECH-1\Desktop\Jmeter5.6\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin\proxyserver.jks
+2023-07-14 16:16:28,935 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-14 16:16:28,935 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-14 16:16:28,935 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-14 16:16:28,935 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2023-07-14 16:16:28,935 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2023-07-14 16:16:28,935 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2023-07-14 16:16:29,024 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2023-07-14 16:16:29,024 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2023-07-14 16:16:29,025 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2023-07-14 16:16:29,025 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2023-07-14 16:30:18,768 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-07-14 16:30:18,769 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-14 16:30:18,769 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-14 16:30:18,771 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2023-07-14 16:30:18,772 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2023-07-14 16:30:18,837 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-07-14 16:30:18,868 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2023-07-14 16:30:18,868 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2023-07-14 16:30:18,868 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-07-14 16:30:18,869 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-07-14 16:30:18,871 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-07-14 16:30:18,872 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-07-14 16:30:18,872 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2023-07-14 16:30:18,880 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = CSTECH
+2023-07-14 16:30:18,885 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2023-07-14 16:30:19,480 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2023-07-14 16:30:19,486 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2023-07-14 16:30:19,486 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2023-07-14 16:30:19,802 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2023-07-14 16:30:19,805 INFO o.a.j.u.SSLManager: KeyStore created OK
+2023-07-14 16:30:19,805 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2023-07-14 16:30:20,745 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2023-07-14 16:30:20,745 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2023-07-14 16:30:20,749 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-07-14 16:30:20,751 INFO o.a.j.s.FileServer: Default base='C:\Users\CSTECH-1\Desktop\Jmeter5.6\apache-jmeter-5.6.2\apache-jmeter-5.6.2\bin'
+2023-07-14 16:30:20,752 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-07-14 16:31:08,458 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-07-14 16:31:08,458 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-14 16:31:08,459 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-07-14 16:31:08,498 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2023-07-14 16:31:08,498 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2023-07-14 16:31:08,498 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-07-14 16:31:08,498 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-07-14 16:31:08,499 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-07-14 16:31:08,499 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-07-14 16:31:08,499 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2023-07-14 16:31:09,110 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2023-07-14 16:31:09,110 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2023-07-14 16:31:09,112 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-07-14 16:31:09,112 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-07-14 16:47:20,579 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-07-14 16:47:20,580 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-14 16:47:20,583 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-07-14 16:47:20,625 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2023-07-14 16:47:20,625 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2023-07-14 16:47:20,625 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-07-14 16:47:20,625 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-07-14 16:47:20,628 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-07-14 16:47:20,628 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-07-14 16:47:20,629 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2023-07-14 16:47:21,210 ERROR o.a.j.u.BeanShellInterpreter: Error invoking bsh method: eval	Sourced file: inline evaluation of: ``var.get.PreviousResults();'' : Class or variable not found: var.get
+2023-07-14 16:47:21,211 WARN o.a.j.e.BeanShellPostProcessor: Problem in BeanShell script: org.apache.jorphan.util.JMeterException: Error invoking bsh method: eval	Sourced file: inline evaluation of: ``var.get.PreviousResults();'' : Class or variable not found: var.get
+2023-07-14 16:47:21,211 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2023-07-14 16:47:21,211 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2023-07-14 16:47:21,212 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-07-14 16:47:21,213 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-07-14 17:10:52,545 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-07-14 17:10:52,546 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-14 17:10:52,547 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-07-14 17:10:52,593 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2023-07-14 17:10:52,593 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2023-07-14 17:10:52,593 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-07-14 17:10:52,594 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-07-14 17:10:52,598 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-07-14 17:10:52,599 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-07-14 17:10:52,599 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2023-07-14 17:10:53,423 ERROR o.a.j.u.BeanShellInterpreter: Error invoking bsh method: eval	Sourced file: inline evaluation of: ``var.get(ip);'' : Undefined argument: ip 
+2023-07-14 17:10:53,423 WARN o.a.j.e.BeanShellPostProcessor: Problem in BeanShell script: org.apache.jorphan.util.JMeterException: Error invoking bsh method: eval	Sourced file: inline evaluation of: ``var.get(ip);'' : Undefined argument: ip 
+2023-07-14 17:10:53,424 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2023-07-14 17:10:53,424 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2023-07-14 17:10:53,425 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-07-14 17:10:53,425 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-07-14 18:17:27,085 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-07-14 18:17:27,086 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-14 18:17:27,089 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-07-14 18:17:27,138 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2023-07-14 18:17:27,138 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2023-07-14 18:17:27,138 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-07-14 18:17:27,139 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-07-14 18:17:27,139 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-07-14 18:17:27,139 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-07-14 18:17:27,140 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2023-07-14 18:17:27,782 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2023-07-14 18:17:27,783 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2023-07-14 18:17:27,784 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-07-14 18:17:27,785 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2023-07-14 19:00:09,606 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2023-07-14 19:00:09,608 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2023-07-14 19:00:09,610 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2023-07-14 19:00:09,664 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2023-07-14 19:00:09,664 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2023-07-14 19:00:09,664 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2023-07-14 19:00:09,664 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2023-07-14 19:00:09,665 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2023-07-14 19:00:09,665 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2023-07-14 19:00:09,665 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2023-07-14 19:00:10,296 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2023-07-14 19:00:10,296 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2023-07-14 19:00:10,297 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2023-07-14 19:00:10,298 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
